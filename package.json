@@ -1,0 +1,19 @@
+{
+  "name": "server-backend-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mysql2": "^1.0.0-rc.1",
+    "querystring": "^0.2.0"
+  }
+}
